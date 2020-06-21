@@ -1,4 +1,4 @@
-baseURL = "http://ocimatic.io"
+baseURL = "https://ocimatic.io"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
