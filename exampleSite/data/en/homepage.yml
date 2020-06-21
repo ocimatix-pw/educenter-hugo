@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Extend Your Customer Reach With the Oracle Cloud Marketplace"
+      content : "OCImatix fixed price service make it fast and easy to sell your software to enterprise customers"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +15,8 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "The Fast Path"
+      content : "Your Oracle Cloud Marketplace Journey with us"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
